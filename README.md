@@ -18,10 +18,10 @@ A simple full-stack application with a Node.js/Express backend and a React front
 
 1. **Installation**
 
-   Navigate to the `backend` folder and install the required dependencies:
+   Navigate to the `Backend` folder and install the required dependencies:
 
    ```bash
-   cd backend
+   cd Backend
    npm install
    
 2. **Running the Server**
@@ -38,10 +38,10 @@ A simple full-stack application with a Node.js/Express backend and a React front
 
 1. **Installation_**
 
-   Navigate to the frontend folder and install the dependencies:
+   Navigate to the Frontend folder and install the dependencies:
 
   ```bash
-  cd frontend
+  cd Frontend
   npm install
  ```
 
