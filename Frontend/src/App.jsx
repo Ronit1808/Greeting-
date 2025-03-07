@@ -11,7 +11,7 @@ const App = () => {
 
   const handleGreet = async () => {
     try {
-      const res = await fetch(`http://localhost:5000/api/greet?name=${name}`)
+      const res = await fetch(`https://greeting-wfw7.onrender.com/api/greet?name=${name}`)
       const data = await res.json()
       setName('')
       if(data.error){
